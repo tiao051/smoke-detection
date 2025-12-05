@@ -1,0 +1,5 @@
+# Dataset folders
+dataset/
+
+# Logs
+*.log
